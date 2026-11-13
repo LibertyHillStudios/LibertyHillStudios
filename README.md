@@ -1,7 +1,7 @@
 <a href="https://libertyhillstudio.com"><img src="assets/banner.jpg" alt="Liberty Hill Studios. Independent games, built in the open with the crew who play them." width="100%"></a>
 
 Liberty Hill Studios is an independent game studio in the Texas Hill Country, building its games in
-the open with a crew of testers, artists and players who ship alongside us.
+the open with the testers, artists and players who help make them.
 
 ## Open source
 
