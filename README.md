@@ -20,5 +20,6 @@ guild, friends or anyone, as each character chooses.<br>
 ## Find us
 
 - **Website:** [libertyhillstudio.com](https://libertyhillstudio.com)
+- **Test with us:** anyone can apply to be a tester. Make an account at [libertyhillstudio.com/signup](https://libertyhillstudio.com/signup) and apply for a seat on the crew.
 - **Work with us:** [libertyhillstudio.com/build](https://libertyhillstudio.com/build)
 - **Email:** [support@libertyhillstudio.com](mailto:support@libertyhillstudio.com)
